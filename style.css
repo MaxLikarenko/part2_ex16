@@ -1,0 +1,10 @@
+.flowers {
+    display: flex;
+    overflow-x: scroll;
+}
+
+.flowers img {
+    width: 300px;
+    height: 300px;
+    margin: 5px 10px;
+}
